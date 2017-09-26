@@ -7,6 +7,6 @@
 
 # Instructions #
 - Go to Galaga/src/mvc/model/Control.java
-- Add absolute path name to the file path in the addScoreToList in Method
+- Add absolute path name to the file path in the addScoreToList method
 - Run Game.main()
 - The user has three ship lives
